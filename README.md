@@ -1,3 +1,19 @@
+
+
+
+<img src="https://github.com/Pradhyumna-Joshi/React-Native-Swiggy-Clone/assets/92945755/31b54069-80da-4183-8565-270df29f3846" width="300" height="600">
+<img src="https://github.com/Pradhyumna-Joshi/React-Native-Swiggy-Clone/assets/92945755/4ace3785-3cf3-4f76-b26e-c1e2d77fcdb2" width="300" height="600">
+<br/>
+<img src="https://github.com/Pradhyumna-Joshi/React-Native-Swiggy-Clone/assets/92945755/eea9b0c6-8c3c-4fa1-aa06-d6e709521239" width="300" height="600">
+<img src="https://github.com/Pradhyumna-Joshi/React-Native-Swiggy-Clone/assets/92945755/e2f7a540-9ba8-4601-93dc-a9894cd45b22" width="300" height="600">
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
